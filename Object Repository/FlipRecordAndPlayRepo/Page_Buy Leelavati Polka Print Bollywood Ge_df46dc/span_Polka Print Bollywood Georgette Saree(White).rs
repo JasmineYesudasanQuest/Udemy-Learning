@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Polka Print Bollywood Georgette Saree(White)</name>
+   <tag></tag>
+   <elementGuidId>253ba6a9-496e-4ba1-8189-96e3b434cc69</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div/h1/span[2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Polka Print Bollywood Georgette Saree  (White)' or . = 'Polka Print Bollywood Georgette Saree  (White)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.VU-ZEz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Polka Print Bollywood Georgette Saree (White)&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1da6323f-e62e-441f-9bd3-e47a7a2fd26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VU-ZEz</value>
+      <webElementGuid>a7eeac2a-3868-4df5-a390-3fbae704ae6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Polka Print Bollywood Georgette Saree  (White)</value>
+      <webElementGuid>fbc1e6e9-13ec-4dd2-8aa7-84bbb6f95dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_39kFie N3De93 JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp col-8-12&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;C7fEHH&quot;]/div[1]/h1[@class=&quot;_6EBuvT&quot;]/span[@class=&quot;VU-ZEz&quot;]</value>
+      <webElementGuid>a8f35078-45ce-4739-9905-4bcbcb2fcb2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div/h1/span[2]</value>
+      <webElementGuid>eb9c9bd1-11f1-4ed7-890d-c3a7e249f0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/following::span[2]</value>
+      <webElementGuid>7226dd34-0f96-46d7-838d-c0d4c36c3306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special price'])[1]/preceding::span[1]</value>
+      <webElementGuid>7939a50f-d8e4-41c5-aaff-71f082a385a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹279'])[1]/preceding::span[2]</value>
+      <webElementGuid>bd648415-7404-4ff6-b74c-344a2efc6f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Polka Print Bollywood Georgette Saree']/parent::*</value>
+      <webElementGuid>612a072f-73ea-4946-b4bc-aeb11656bdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span[2]</value>
+      <webElementGuid>dfeee531-07bb-4673-ab37-5c52c694a3b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Polka Print Bollywood Georgette Saree  (White)' or . = 'Polka Print Bollywood Georgette Saree  (White)')]</value>
+      <webElementGuid>e037a7d0-c1e6-4e0a-847a-a6971dac1cf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

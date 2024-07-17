@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Polka Print Bollywood Georgette Saree</name>
+   <tag></tag>
+   <elementGuidId>c56e9d32-320d-47a8-a08e-ff0f351d6d35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.WKTcLC.BwBZTg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Polka Print Bollywood Georgette Saree&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93681ea9-d6c1-4058-843c-1b28440f6301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WKTcLC BwBZTg</value>
+      <webElementGuid>590c3054-e4a1-4f98-b1e8-cd24df418b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Polka Print Bollywood Georgette Saree</value>
+      <webElementGuid>929d0f19-e61b-40bd-951f-4f803c74a966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>030e340b-da68-40bd-8d50-9adfd8a4cd60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>4658a06d-1d84-4031-af82-29064d6474cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/leelavati-polka-print-bollywood-georgette-saree/p/itme60c0ca6cc3ac?pid=SARGA35GPAGH6TQT&amp;lid=LSTSARGA35GPAGH6TQTLRHFSX&amp;marketplace=FLIPKART&amp;store=clo&amp;srno=b_1_1&amp;otracker=hp_rich_navigation_3_1.navigationCard.RICH_NAVIGATION_Fashion~Women+Ethnic_HQXTE43PO8HC&amp;otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_3_L1_view-all&amp;fm=organic&amp;iid=en_OqGzsieb5w_X7qcskSwGSukRL0v_BVmVjrSwpnHZDj7Lj4USIVlUxMV8Rv9QPWQibiK2-S8PzBd_G_POxhzD5g%3D%3D&amp;ppt=browse&amp;ppn=browse&amp;ssid=jby7dl6tq80000001721193911000</value>
+      <webElementGuid>c5a508c2-c3d5-4ba7-85ec-7269e952626e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Polka Print Bollywood Georgette Saree</value>
+      <webElementGuid>6878259d-863c-41b8-ab29-77340c495afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;nt6sNV JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;_75nlfW&quot;]/div[1]/div[@class=&quot;_1sdMkc LFEi7Z Cd8ZYz&quot;]/div[@class=&quot;hCKiGj&quot;]/a[@class=&quot;WKTcLC BwBZTg&quot;]</value>
+      <webElementGuid>8887d1ac-174b-4670-a4ce-fa474499ce58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div/div/div/a</value>
+      <webElementGuid>18105fb2-a7b3-42c2-b8fe-18bcd5088abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Polka Print Bollywood Georgette Saree')]</value>
+      <webElementGuid>cbd2d533-75a7-4e19-8a40-975915771e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leelavati'])[1]/following::a[1]</value>
+      <webElementGuid>d8b28d30-6c90-46ed-94ce-898de98ba0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newest First'])[1]/following::a[2]</value>
+      <webElementGuid>641c35bb-c45d-477f-aa47-6182aaed5c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7619cd3-7180-4aa7-bfa9-24de3f0c356e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹279'])[1]/preceding::a[1]</value>
+      <webElementGuid>9c113342-4f9a-4a4b-8472-99d753c6cd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Polka Print Bollywood Georgette Saree']/parent::*</value>
+      <webElementGuid>858cf830-e8ee-4728-acdb-abeee54990d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/leelavati-polka-print-bollywood-georgette-saree/p/itme60c0ca6cc3ac?pid=SARGA35GPAGH6TQT&amp;lid=LSTSARGA35GPAGH6TQTLRHFSX&amp;marketplace=FLIPKART&amp;store=clo&amp;srno=b_1_1&amp;otracker=hp_rich_navigation_3_1.navigationCard.RICH_NAVIGATION_Fashion~Women+Ethnic_HQXTE43PO8HC&amp;otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_3_L1_view-all&amp;fm=organic&amp;iid=en_OqGzsieb5w_X7qcskSwGSukRL0v_BVmVjrSwpnHZDj7Lj4USIVlUxMV8Rv9QPWQibiK2-S8PzBd_G_POxhzD5g%3D%3D&amp;ppt=browse&amp;ppn=browse&amp;ssid=jby7dl6tq80000001721193911000')])[2]</value>
+      <webElementGuid>55f83559-ddf3-4d0a-a7a5-934a62faaac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/a</value>
+      <webElementGuid>92fcbf44-175a-4c00-bdc9-4e87f66f3438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Polka Print Bollywood Georgette Saree' and @href = '/leelavati-polka-print-bollywood-georgette-saree/p/itme60c0ca6cc3ac?pid=SARGA35GPAGH6TQT&amp;lid=LSTSARGA35GPAGH6TQTLRHFSX&amp;marketplace=FLIPKART&amp;store=clo&amp;srno=b_1_1&amp;otracker=hp_rich_navigation_3_1.navigationCard.RICH_NAVIGATION_Fashion~Women+Ethnic_HQXTE43PO8HC&amp;otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_3_L1_view-all&amp;fm=organic&amp;iid=en_OqGzsieb5w_X7qcskSwGSukRL0v_BVmVjrSwpnHZDj7Lj4USIVlUxMV8Rv9QPWQibiK2-S8PzBd_G_POxhzD5g%3D%3D&amp;ppt=browse&amp;ppn=browse&amp;ssid=jby7dl6tq80000001721193911000' and (text() = 'Polka Print Bollywood Georgette Saree' or . = 'Polka Print Bollywood Georgette Saree')]</value>
+      <webElementGuid>3cb9b663-6d79-47fb-9fa2-283f6d786a2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
