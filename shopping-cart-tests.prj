@@ -6,6 +6,8 @@
    <UUID>15c1147d-4df1-411f-8c60-66168b97bcc0</UUID>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>D:\KatalonTraining\UdemyLearning\UdemyLearningProject\shopping-cart-tests.prj</projectFileLocation>
    <sourceContent>
